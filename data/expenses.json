@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "date": "20206-01-28",
+        "category": "food",
+        "amount": 250.5,
+        "currency": "BDT",
+        "note": "lunch"
+    },
+    {
+        "id": 2,
+        "date": "20206-01-28",
+        "category": "food",
+        "amount": 250.5,
+        "currency": "BDT",
+        "note": "lunch"
+    }
+]
