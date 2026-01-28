@@ -14,5 +14,21 @@
         "amount": 250.5,
         "currency": "BDT",
         "note": "lunch"
+    },
+    {
+        "date": "2026-01-26",
+        "category": "food",
+        "amount": 250.5,
+        "note": "Lunch",
+        "currency": "BDT",
+        "id": 3
+    },
+    {
+        "date": "2026-01-26",
+        "category": "food",
+        "amount": 250.5,
+        "note": "Lunch",
+        "currency": "BDT",
+        "id": 4
     }
 ]
